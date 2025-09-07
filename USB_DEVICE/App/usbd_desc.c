@@ -62,7 +62,7 @@
   * @{
   */
 
-#define USBD_VID
+#define USBD_VID     0x0483
 #define USBD_LANGID_STRING     1033
 #define USBD_MANUFACTURER_STRING     "DexterCai's"
 #define USBD_PID_FS     0x7005
