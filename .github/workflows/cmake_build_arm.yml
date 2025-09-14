@@ -81,7 +81,7 @@ jobs:
       - name: Upload Release Assets
         uses: actions/upload-artifact@v4
         with:
-          name: general-aviation-control-build-release
+          name: trim-control-build-release
           path: |
             build-release/*.elf
             build-release/*.bin
