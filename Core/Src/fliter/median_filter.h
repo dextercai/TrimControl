@@ -5,7 +5,7 @@
 #ifndef MEDIAN_FILTER_H
 #define MEDIAN_FILTER_H
 
-#define MEDIAN_MAX_SIZE 9  // 支持最大窗口大小（可根据内存需求调整）
+#define MEDIAN_MAX_SIZE 9 // 支持最大窗口大小（可根据内存需求调整）
 #include <stdint.h>
 
 typedef struct {
